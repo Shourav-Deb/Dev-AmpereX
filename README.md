@@ -9,7 +9,7 @@
 ## ℹ What is Dev AmpereX?
 Dev AmpereX is a dashboard that shows smart plug electricity usage in a clear and friendly way, including live readings, usage trends, and simple cost estimation. Built to demonstrate how real-time usage visibility can improve efficiency, reduce waste, and support greener energy habits.
 
-**Live Demo:** **[Dev AmpereX](https://dev-amperex.streamlit.app)**
+**Live:** **[Dev AmpereX](https://dev-amperex.streamlit.app)**
 
 
 ## 🔑 Key Benefits
